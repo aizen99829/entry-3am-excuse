@@ -6,12 +6,14 @@
 
 An entry for the [make.fun](https://make.fun) bounty "The 3 AM Excuse".
 
-> I'm awake at 3 AM because my brain scheduled a performance review to discuss the dumb thing I said in 2019, and apparently I'm the only one invited.
+Everybody knows this feeling: at 3 AM, when the whole world is asleep, your brain suddenly decides it is the perfect time to replay the dumb thing you said years ago — no warning, no agenda, just you, the dark, and a memory that refuses to let you sleep.
+
+> I'm awake at 3 AM because my brain called an emergency meeting to discuss the dumb thing I said in 2019, and apparently I'm the only one invited.
 
 Run it with:
 
 ```sh
-deno run main.ts
+node main.ts
 ```
 
 SPDX-License-Identifier: MIT
